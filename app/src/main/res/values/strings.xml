@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lsy备忘录</string>
+    <string name="img_tool_cap">拍照</string>
+    <string name="please_choose">请选择</string>
+    <string name="img_tool_photo">从相册选取</string>
+    <string name="cancel">取消</string>
+</resources>
